@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: monospace, sans-serif, serif;
+}
+
+a:visited {
+    color: rgb(205, 96, 255);
+}
+
+a:focus {
+    color: rgb(96, 178, 255);
+}
+
+a {
+    color: rgb(127, 167, 255);
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 500;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    font-weight: 300;
+    text-align: center;
+}
+
+ul,
+ol {
+    background-color: rgb(44, 44, 44);
+}
+
+img {
+    width: 512px;
+    height: auto;
+}
